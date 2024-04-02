@@ -1,9 +1,9 @@
 header{
-    background-color: brown;
+    background-color: rgb(77, 45, 218);
     height: 100px;
 }
 nav{
-    background-color: blue;
+    background-color: #15c7a4;
     display: inline-flex;
     height: 450px;
     width: 200px;
@@ -13,14 +13,14 @@ nav li{
 }
 
 nav li a{
-    color:white;
+    color:rgb(245, 215, 174);
     text-decoration: none;
     margin: 0;
     padding: 10px;
     font-size: 20px;
 }
 nav li a:hover{
-    background-color: aqua;
+    background-color: rgb(36, 29, 33);
 }
 
 
@@ -32,6 +32,6 @@ main{
     }
 
 footer{
-    background-color: black;
+    background-color: rgb(208, 192, 17);
     height: 100px;
 }
